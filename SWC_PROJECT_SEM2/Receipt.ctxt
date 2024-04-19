@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Receipt
+comment1.params=haircut\ washHair\ facial\ doManicure\ doPedicure\ day\ month\ timeDesc\ promoCodeText\ totalPrice\ payNow\ finalPrice\ custName\ custEmail\ custPhoneNumber
+comment1.target=Receipt(java.lang.String,\ boolean,\ java.lang.String,\ boolean,\ boolean,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ double,\ boolean,\ double,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3
